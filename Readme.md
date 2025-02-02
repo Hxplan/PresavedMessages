@@ -20,9 +20,9 @@ This mod adds a quick chat menu, similar to the one in **Rocket League**, to you
 ## 🎮 **How to Use**
 
 1. **Download** the mod from the [release](https://github.com/Hxplan/PresavedMessages/releases/tag/v1.0.0) section.
-2. **Install** the mod by following the provided instructions.
+2. **Install** Install the latest release version of PressavedMessages (Place PressavedMessages.ksm in the root folder of the game along the path: kino\mods)
 3. **Open the Menu** in-game using the key 'F1'.
-4. **Bind Keys**: click at the right of a message to assign keys to your messages.
+4. **Bind Keys**: click on the "bind" button beside a message to assign keys to your messages.
 5. **Send Messages** by pressing the bound keys.
 
 ---
